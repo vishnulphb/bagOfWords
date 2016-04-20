@@ -1,0 +1,10 @@
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\bin\Debug\bagOfWords.exe.config
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\bin\Debug\doc1.txt
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\bin\Debug\doc2.txt
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\bin\Debug\bagOfWords.exe
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\bin\Debug\bagOfWords.pdb
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\obj\Debug\bagOfWords.csprojResolveAssemblyReference.cache
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\obj\Debug\bagOfWords.exe
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\obj\Debug\bagOfWords.pdb
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\bin\Debug\output.txt
+c:\users\vpillai\documents\visual studio 2012\Projects\bagOfWords\bagOfWords\bin\Debug\StemmersNet.dll
